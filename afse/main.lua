@@ -1,4 +1,4 @@
-game.Players.LocalPlayer:kick("script is detected")
+game.Players.LocalPlayer:kick("script is patched")
 --[[
 https://www.roblox.com/games/130247632398296
 ]]--
