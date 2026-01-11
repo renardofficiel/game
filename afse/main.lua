@@ -1,3 +1,4 @@
+game.Players.LocalPlayer:kick("script is detected")
 --[[
 https://www.roblox.com/games/130247632398296
 ]]--
