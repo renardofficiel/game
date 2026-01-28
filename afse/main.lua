@@ -1,4 +1,4 @@
---game.Players.LocalPlayer:kick("script is patched")
+game.Players.LocalPlayer:kick("script is under maintenance pls try again later")
 --[[
 https://www.roblox.com/games/130247632398296
 ]]--
